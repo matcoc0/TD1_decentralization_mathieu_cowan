@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+TD1_decentralization.egg-info/PKG-INFO
+TD1_decentralization.egg-info/SOURCES.txt
+TD1_decentralization.egg-info/dependency_links.txt
+TD1_decentralization.egg-info/top_level.txt
